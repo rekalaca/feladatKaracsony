@@ -1,0 +1,35 @@
+[
+    {
+        "alakzat": "Gomb",
+        "atmero": "30",
+        "piros": "hamis",
+        "terfogata": "14130"
+    },
+    {
+        "alakzat": "Alma",
+        "atmero": "40",
+        "piros": "igaz",
+        "terfogata": "33493"
+    },
+    {
+        "alakzat": "Gomb",
+        "atmero": "50",
+        "piros": "hamis",
+        "terfogata": "65417"
+    },
+    {
+        "alakzat": "Gomb",
+        "atmero": "33",
+        "piros": "igaz"
+    },
+    {
+        "alakzat": "Alma",
+        "atmero": "56",
+        "piros": "igaz"
+    },
+    {
+        "alakzat": "Gomb",
+        "atmero": "77",
+        "piros": "hamis"
+    }
+]

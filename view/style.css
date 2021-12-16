@@ -1,0 +1,45 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+#urlap{
+    width: 30%;
+    margin: 0 auto 0 auto;
+    padding-top: 15px;
+}
+
+#diszButton{
+    padding-top: 30px;
+    text-align: center;
+}
+
+#mydiszTable{
+    width: 600px;
+    margin: 15px auto 0 auto;
+    text-align: center;
+}
+
+#mydiszTable td{
+    border-bottom: solid rgb(44, 223, 68) 1px;
+}
+
+#mydiszTable th{
+    border-bottom: solid rgb(47, 173, 30) 4px;
+}
+
+.arany{
+    color: crimson;
+    background-color: gold;
+}
+
+.piros{
+    color: gold;
+    background-color: crimson;
+}
+#cim{
+    padding-top: 25px;
+}
